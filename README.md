@@ -29,6 +29,7 @@ I am happy to provide any assistance that you may need.
 **More information**
 
 Hackaday.io: https://hackaday.io/project/5543-nixius
+
 My website: http://www.r00li.com
 
 **Tinkering**
