@@ -11,6 +11,7 @@ A simple ARM powered Nixie clock.
  - Temperature display
 
 **I want it!**
+
 Great! Build it! This project includes everything that you need. A complete PCB, a 3D printable case and firmware source code.
 
 **Instructions**
@@ -26,11 +27,14 @@ Great! Build it! This project includes everything that you need. A complete PCB,
 I am happy to provide any assistance that you may need. 
 
 **More information**
+
 Hackaday.io: https://hackaday.io/project/5543-nixius
 My website: http://www.r00li.com
 
 **Tinkering**
+
 I've used many online sources to build this thing. Especially the power supply part and how to drive the Nixies. Do you want to use some of the bits from my design? Go right ahead! Don't want to use IN-1 nixies? You will just need to replace 4 resistors in the center with the correct ones and you'll be fine. And of course use some wire to connect the nixies. 
 
 **License**
+
 Licensed under GNU GPL v3.
